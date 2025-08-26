@@ -1,0 +1,18 @@
+# Arquivos de usuário específicos do Visual Studio e VS Code
+*.suo
+*.user
+*.sln.docstates
+.vs/
+.vscode/
+
+# Pastas de compilação do .NET
+[Bb]in/
+[Bb]obj/
+
+# Arquivos de log e cache
+*.log
+*.cache
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
